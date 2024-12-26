@@ -1,1 +1,2 @@
 # Address-Book
+Developed an address book application in C programming to manage contact information efficiently. The system featured functionalities to add, delete, search, and update contact details, including names, phone numbers, and email addresses. Implemented data persistence through file handling for storing and retrieving records. Focused on simplicity and user-friendliness, ensuring seamless interaction and robust performance.
